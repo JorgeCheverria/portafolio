@@ -32,7 +32,7 @@ const HeroSection = () => {
       >
         <div className="max-w-3xl mx-auto space-y-6">
           <h1 className="font-headline text-4xl font-bold tracking-tighter text-white sm:text-5xl md:text-6xl lg:text-7xl">
-            <span className="text-primary">Jorge Cheverria G.</span>
+            <span className="text-primary">Jorge Cheverria.</span>
             <br />
             Full-Stack Developer.
           </h1>
