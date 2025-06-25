@@ -15,18 +15,18 @@ const ContactSection = () => {
             <Button size="lg" asChild className="font-bold text-lg">
               <a href="mailto:jorge.cheverria@example.com">
                 <Mail className="mr-2 h-5 w-5" />
-                jorge.cheverria@example.com
+                jorgecheverria96@gmail.com
               </a>
             </Button>
           </div>
           <div className="mt-6 flex justify-center gap-4">
             <Button asChild variant="ghost" size="icon">
-              <a href="#" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+              <a href="https://github.com/JorgeCheverria" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                 <Github className="h-6 w-6" />
               </a>
             </Button>
             <Button asChild variant="ghost" size="icon">
-              <a href="#" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/jorge-cheverria/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                 <Linkedin className="h-6 w-6" />
               </a>
             </Button>

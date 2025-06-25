@@ -3,23 +3,48 @@ import AnimatedSection from "@/components/animated-section";
 const experiences = [
   {
     role: "Senior Full-Stack Developer",
-    company: "Tech Solutions Inc.",
-    period: "Jan 2021 - Present",
-    description: "Led development of key features for a SaaS platform. Mentored junior developers and improved code quality and deployment pipelines, resulting in a 30% reduction in bug reports.",
+    company: "Banco Bolivariano",
+    period: "Mar 2024 – Present",
+    description:
+      "Front-end development using React.js, Next.js, and TypeScript. Implementation of microfrontend architectures, AWS Lambda integration, and advanced manipulation of JSON structures.",
   },
   {
-    role: "Mid-Level Software Engineer",
-    company: "Innovate Co.",
-    period: "Jun 2018 - Dec 2020",
-    description: "Developed and maintained client-facing web applications using React and Node.js. Collaborated with cross-functional teams to deliver high-quality software on schedule.",
+    role: "Senior Software Developer",
+    company: "GEA INTERNACIONAL",
+    period: "Aug 2021 – Apr 2024",
+    description:
+      "Development and maintenance of microservices and full-stack solutions. Focus on RESTful back-end development, GitHub version control, XML handling, and agile methodologies. Actively involved in designing scalable software solutions.",
   },
   {
-    role: "Junior Web Developer",
-    company: "Digital Creations",
-    period: "May 2017 - May 2018",
-    description: "Assisted in building responsive websites for various clients. Gained hands-on experience with HTML, CSS, JavaScript, and version control systems like Git.",
+    role: "Software Developer",
+    company: "FUNIBER",
+    period: "Dec 2020 – Aug 2021",
+    description:
+      "Development of internal applications using PHP, Vue.js, and Vuetify. Applied agile methodologies (Scrum), worked with Docker containers and Git for version control. Maintained Linux development environments and collaborated remotely using Slack and Asana.",
+  },
+  {
+    role: "Senior Software Developer",
+    company: "GEA INTERNACIONAL",
+    period: "Jul 2019 – May 2020",
+    description:
+      "Development of the ERP system SIGA using Laravel and Vue.js. Specialized in geographic information components (Google Maps, OpenStreetMaps), REST APIs, and mobile web services. Provided user support and created custom reports.",
+  },
+  {
+    role: "GIS Developer",
+    company: "Bitekso S.A.",
+    period: "Feb 2019 – Jun 2019",
+    description:
+      "Implemented a GIS system using QGIS, Python, and spatial databases (PostgreSQL). Developed a software solution for managing urban properties for the Municipality of El Oro, including cost reporting per property.",
+  },
+  {
+    role: "Applications Developer",
+    company: "Saludsa",
+    period: "Mar 2018 – Oct 2018",
+    description:
+      "Developed BI applications using QlikView and QlikSense to support decision-making in the customer service department. Managed ETLs, handled application deployment in production servers, and oversaw Qlik license administration.",
   },
 ];
+
 
 const ExperienceSection = () => {
   return (

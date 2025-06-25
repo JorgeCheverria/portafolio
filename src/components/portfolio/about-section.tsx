@@ -17,7 +17,7 @@ const AboutSection = () => {
           </div>
           <div className="flex justify-center">
             <Avatar className="w-48 h-48 md:w-64 md:h-64 border-4 border-primary">
-              <AvatarImage src="https://placehold.co/256x256.png" alt="Jorge Cheverria" data-ai-hint="man portrait" />
+              <AvatarImage src="https://avatars.githubusercontent.com/u/30996155?v=4" alt="Jorge Cheverria" data-ai-hint="man portrait" />
               <AvatarFallback>JC</AvatarFallback>
             </Avatar>
           </div>

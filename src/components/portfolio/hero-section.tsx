@@ -13,7 +13,7 @@ const HeroSection = () => {
     >
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://placehold.co/1920x1080.png"
+          src="/home.png"
           alt="Portfolio cover"
           data-ai-hint="abstract technology"
           fill
@@ -32,7 +32,7 @@ const HeroSection = () => {
       >
         <div className="max-w-3xl mx-auto space-y-6">
           <h1 className="font-headline text-4xl font-bold tracking-tighter text-white sm:text-5xl md:text-6xl lg:text-7xl">
-            <span className="text-primary">Jorge Cheverria.</span>
+            <span className="text-primary">Jorge Cheverria G.</span>
             <br />
             Full-Stack Developer.
           </h1>
